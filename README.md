@@ -16,7 +16,7 @@ Steps to implement PCA algorithm:
 - Subtract each data point from mean of the entire data
 - Calculate the covariance matrix of the data set X
 - Calculate eigenvalues and eigenvectors of the covariance matrix, sorted in descending order of eigenvalues
-![](https://www.researchgate.net/profile/Hoang-Nguyen-65/publication/337244216/figure/fig2/AS:825072486977536@1573724018162/The-principle-component-analysis-PCA-procedure-source.png)
+![](https://machinelearningcoban.com/assets/27_pca/pca_procedure.png)
 ## Applying PCA to feature extraction of 3D dataset
 ## Dataset
 The dataset is a set of 20 data points, each data point includes feature 1, feature 2 and label:
