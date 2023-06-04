@@ -31,6 +31,7 @@ Perform data set X (original data set) into the model:
 ![Start algorithm](./img/train.png)
 
 Where the matrix X is a matrix of size D × N, where D is the number of dimensions of a data point and N is the number of samples in the data set. Each matrix column is a data point:
+
 ![Input matrix X](./img/matrix_X.png)
 
 As a result, the vectors of the eigenvectors of the covariance matrix are the column vectors of the matrix
