@@ -27,6 +27,7 @@ The dataset is a set of 20 data points, each data point includes feature 1, feat
 
 ### Extract dataset by PCA
 Perform data set X (original data set) into the model:
+
 ![Start algorithm](./img/train.png)
 
 Where the matrix X is a matrix of size D × N, where D is the number of dimensions of a data point and N is the number of samples in the data set. Each matrix column is a data point:
